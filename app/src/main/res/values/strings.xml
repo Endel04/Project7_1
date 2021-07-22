@@ -9,4 +9,7 @@
     <string name="sub_item_rotate">버튼 45도 회전</string>
     <string name="sub_item_zoom">버튼 2배 확대</string>
     <string name="text_angle">회전각도 입력: </string>
+    <string name="item_place_1">풍경1</string>
+    <string name="item_place_2">풍경2</string>
+    <string name="item_place_3">풍경3</string>
 </resources>
